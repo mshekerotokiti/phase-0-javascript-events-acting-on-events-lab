@@ -27,3 +27,10 @@ document.addEventListener('keydown' , function(e){
     dodger.style.left=`${left - 1}px`;
 }
   }
+
+  /*dodger.style.backgroundColor = '#FF69B4'
+  dodger.style.left = "0px";*/
+
+  //document.addEventListener("keydown", function (event) {
+    //console.log(event);
+  //});
